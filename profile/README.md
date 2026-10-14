@@ -39,6 +39,20 @@ organization to see them land.
 - **How to contribute:** [contributing guide](https://github.com/circlexo/.github/blob/master/CONTRIBUTING.md) (DCO sign-off required)
 - **Security reports:** privately, per the [security policy](https://github.com/circlexo/.github/blob/master/SECURITY.md), or info@3x1.io
 
+## Sponsor
+
+CircleXO is made by [Fady Mondy](https://github.com/fadymondy), the creator of
+**[ToGO](https://github.com/togo-framework/togo)**, the open-source Go + React framework behind Zekra, Mahaam,
+Moharrik and Hosbah. The best way to support CircleXO is to **sponsor ToGO**, which funds the whole ecosystem.
+
+**[Sponsor ToGO →](https://to-go.dev/sponsor)**
+
+<p>
+  <a href="https://to-go.dev/sponsor"><img src="https://img.shields.io/badge/Sponsor-ToGO-00ADD8?logo=go&logoColor=white" alt="Sponsor ToGO" /></a>
+  <a href="https://github.com/sponsors/fadymondy"><img src="https://img.shields.io/badge/GitHub%20Sponsors-fadymondy-ea4aaa?logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://buymeacoffee.com/fadymondy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fadymondy-ffdd00?logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
+
 ## License
 
 CircleXO projects are licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) unless a
