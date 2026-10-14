@@ -6,23 +6,30 @@
 
 **The open business OS: create a workspace, install apps, connect AI agents.**
 
+[![Powered by ToGO](https://img.shields.io/badge/powered%20by-ToGO-00ADD8?logo=go&logoColor=white)](https://to-go.dev)
+[![ToGO on GitHub](https://img.shields.io/github/stars/togo-framework/togo?label=ToGO&logo=github&style=social)](https://github.com/togo-framework/togo)
+
 [Website](https://circlexo.com) · [Go SDK](https://github.com/circlexo/circlexo-go) · [Discussions](https://github.com/circlexo/.github/discussions) · [Security](https://github.com/circlexo/.github/blob/master/SECURITY.md)
 
 </div>
 
 CircleXO is a multi-tenant platform for running a business on one account. A workspace gets
 single sign-on, billing and entitlements, and an app hub to install apps from. AI agents connect
-through one MCP gateway with the same permissions as the people they work for. It is built on the
-open-source [ToGo](https://github.com/togo-framework) framework.
+through one MCP gateway with the same permissions as the people they work for.
+
+**Powered by [ToGO](https://to-go.dev)**: the CircleXO platform is built on
+[ToGO](https://github.com/togo-framework/togo), the open-source, API-first Go framework with a
+Laravel-style CLI and a plugin marketplace. Want the same foundation? Start at [to-go.dev](https://to-go.dev).
 
 ## Repositories
 
 | Repository | What it is |
 | --- | --- |
 | [circlexo-go](https://github.com/circlexo/circlexo-go) | Go SDK for CircleXO apps: OIDC sign-in, entitlements, usage billing, webhooks, MCP gateway auth |
+| [docs](https://github.com/circlexo/docs) | Documentation: architecture, contracts, products, capabilities and agents |
 | [.github](https://github.com/circlexo/.github) | This profile and the default community files for every repository |
 
-More repositories (the platform, the apps and the docs) are being opened up. Watch this
+More repositories (the platform and the apps) are being opened up. Watch this
 organization to see them land.
 
 ## Get involved
